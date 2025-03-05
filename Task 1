@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Project details-->   
+<header>
+    <h1>Resume</h1>
+</header>
+<body>
+<nav>
+ <ul>
+    <li style="font-size: xx-large;">Home</li>
+    <li style="font-size: xx-large;">About</li>
+    <li style="font-size: xx-large;">Qualification Details</li>
+    <li style="font-size: xx-large;">Certification</li>
+    <li style="font-size: xx-large;">Skills</li>
+    <li style="font-size: xx-large;">contact Details</li>
+</ul>
+</nav>
+
+<!--Home Content-->
+<section>
+<center><figure>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINyXZJTxYdWBXvVyJ5tksLs2GDAz1gBnYfQ&s" alt="no image"/>
+<figcaption>Picture1</figcaption>
+</figure>
+<h1 style="font-size: xx-large;">Sanjitha Vinoth</h1>
+<h2 style="font-size: xx-large;">Full Stack Developer</h2>
+</center>    
+</section>
+<!--skill content-->
+<section>
+    <details>
+        <summary style="font-size: xx-large;">Skills</summary>
+        <ul>
+        <li style="font-size: xx-large;">CSS</li>
+        <li style="font-size: xx-large;">HTML</li>
+        </ul>
+    </details>
+    </section>
+    <section>
+        <h1 style="font-size: xx-large;">Project Details</h1>
